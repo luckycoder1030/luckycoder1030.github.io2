@@ -22,9 +22,9 @@ navigation:
 - text: Home
   url: /
 - text: About
-  url: /about/
-- text: Style Guides
-  url: /style-guide/
+  url: about.md
+- text: Portfolio
+  url: Portfolio.md
 - text: Archives
   url: /tags/
 
