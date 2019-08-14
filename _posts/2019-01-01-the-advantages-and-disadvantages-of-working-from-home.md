@@ -2,7 +2,7 @@
 layout: post
 title:  "The Advantages & Disadvantages of Working from Home"
 date:   2019-01-01
-banner_image: /assets/images/posts/2019/desk.jpg 
+banner_image: /assets/images/posts/Crypto_Market_Altcoins-540x340.jpg 
 tags: [tips, work]
 ---
 
